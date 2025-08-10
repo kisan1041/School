@@ -157,10 +157,7 @@ nav {
  .main-section about-us{
      width: 70%;
  }
-  .carousel-item{
-     img{
-          height: 123px;
-         
+
      }
  .heading{
      color: hwb(14 14% 0%);
@@ -517,5 +514,6 @@ nav {
 }
 
 /********** Footer CSS Ends **********/
+
 
 
