@@ -160,7 +160,7 @@ nav {
  }
  .carousel-item{
      img{
-          height: 70vh;
+          height: 70%;
          
      }
  }
@@ -519,3 +519,4 @@ nav {
      margin-top:10px;
 }
 /********** Footer CSS Ends **********/
+
