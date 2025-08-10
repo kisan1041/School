@@ -159,7 +159,7 @@ nav {
  }
   .carousel-item{
      img{
-          height: 30vh;
+          height: 123px;
          
      }
  .heading{
@@ -517,4 +517,5 @@ nav {
 }
 
 /********** Footer CSS Ends **********/
+
 
