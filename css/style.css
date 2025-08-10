@@ -156,9 +156,15 @@ nav {
 
  .main-section about-us{
      width: 70%;
- }
 
+ }
+ .carousel-item{
+     img{
+          height: 70vh;
+         
      }
+ }
+ 
  .heading{
      color: hwb(14 14% 0%);
  }
@@ -512,8 +518,4 @@ nav {
      background-color: gold;
      margin-top:10px;
 }
-
 /********** Footer CSS Ends **********/
-
-
-
